@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 16:06+0000\n"
-"PO-Revision-Date: 2020-09-15 17:33+0000\n"
+"POT-Creation-Date: 2020-09-22 18:52+0000\n"
+"PO-Revision-Date: 2020-09-22 20:38+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
 "Language: hsb\n"
@@ -161,7 +161,7 @@ msgstr "%(addonName)s – Wobstarajće sej rozšěrjenje za 🦊 Firefox (%(loca
 msgid "%(addonName)s – Get this Language Pack for 🦊 Firefox (%(locale)s)"
 msgstr "%(addonName)s – Wobstarajće sej rěčny pakćik za 🦊 Firefox (%(locale)s)"
 
-#: src/amo/components/AddonMeta/index.js:125
+#: src/amo/components/AddonMeta/index.js:119
 msgid "%(total)s Star"
 msgid_plural "%(total)s Stars"
 msgstr[0] "%(total)s hwěžka"
@@ -169,15 +169,15 @@ msgstr[1] "%(total)s hwěžce"
 msgstr[2] "%(total)s hwěžki"
 msgstr[3] "%(total)s hwěžkow"
 
-#: src/amo/components/AddonMeta/index.js:134
+#: src/amo/components/AddonMeta/index.js:128
 msgid "Not rated yet"
 msgstr "Hišće njepohódnoćeny"
 
-#: src/amo/components/AddonMeta/index.js:55
+#: src/amo/components/AddonMeta/index.js:49
 msgid "Users"
 msgstr "Wužiwarjo"
 
-#: src/amo/components/AddonMeta/index.js:58
+#: src/amo/components/AddonMeta/index.js:52
 msgid "User"
 msgid_plural "Users"
 msgstr[0] "wužiwar"
@@ -185,15 +185,15 @@ msgstr[1] "wužiwarjej"
 msgstr[2] "wužiwarjo"
 msgstr[3] "wužiwarjow"
 
-#: src/amo/components/AddonMeta/index.js:60
+#: src/amo/components/AddonMeta/index.js:54
 msgid "No Users"
 msgstr "Žani wužiwarjo"
 
-#: src/amo/components/AddonMeta/index.js:67
+#: src/amo/components/AddonMeta/index.js:61
 msgid "Reviews"
 msgstr "Pohódnoćenja"
 
-#: src/amo/components/AddonMeta/index.js:70
+#: src/amo/components/AddonMeta/index.js:64
 msgid "Review"
 msgid_plural "Reviews"
 msgstr[0] "pohódnoćenje"
@@ -201,87 +201,87 @@ msgstr[1] "pohódnoćeni"
 msgstr[2] "pohódnoćenja"
 msgstr[3] "pohódnoćenjow"
 
-#: src/amo/components/AddonMeta/index.js:72
+#: src/amo/components/AddonMeta/index.js:66
 msgid "No Reviews"
 msgstr "Žane pohódnoćenja"
 
-#: src/amo/components/AddonMeta/index.js:98
+#: src/amo/components/AddonMeta/index.js:92
 msgid "Used by"
 msgstr "Wužity wot"
 
-#: src/amo/components/AddonMoreInfo/index.js:117
+#: src/amo/components/AddonMoreInfo/index.js:109
 msgid "Visit stats dashboard"
 msgstr "Přehlad statistiki wopytać"
 
-#: src/amo/components/AddonMoreInfo/index.js:137
+#: src/amo/components/AddonMoreInfo/index.js:128
 msgid "Custom License"
 msgstr "Swójska licenca"
 
-#: src/amo/components/AddonMoreInfo/index.js:159
+#: src/amo/components/AddonMoreInfo/index.js:150
 msgid "%(timeFromNow)s (%(date)s)"
 msgstr "%(timeFromNow)s (%(date)s)"
 
-#: src/amo/components/AddonMoreInfo/index.js:176
+#: src/amo/components/AddonMoreInfo/index.js:166
 msgid "Read the privacy policy for this add-on"
 msgstr "Čitajće prawidła priwatnosće za tutón přidatk"
 
-#: src/amo/components/AddonMoreInfo/index.js:188
+#: src/amo/components/AddonMoreInfo/index.js:177
 msgid "Read the license agreement for this add-on"
 msgstr "Čitajće ľicencne dojednanje za tutón přidatk"
 
-#: src/amo/components/AddonMoreInfo/index.js:201
+#: src/amo/components/AddonMoreInfo/index.js:189
 msgid "See all versions"
 msgstr "Wšě wersije pokazać"
 
-#: src/amo/components/AddonMoreInfo/index.js:228
+#: src/amo/components/AddonMoreInfo/index.js:216
 msgid "Add-on Links"
 msgstr "Přidatkowe wotkazy"
 
-#: src/amo/components/AddonMoreInfo/index.js:240
+#: src/amo/components/AddonMoreInfo/index.js:228
 msgid "Version"
 msgstr "Wersija"
 
-#: src/amo/components/AddonMoreInfo/index.js:248
+#: src/amo/components/AddonMoreInfo/index.js:236
 msgid "Size"
 msgstr "Wulkosć"
 
-#: src/amo/components/AddonMoreInfo/index.js:256 src/amo/components/CollectionDetails/index.js:89
+#: src/amo/components/AddonMoreInfo/index.js:244 src/amo/components/CollectionDetails/index.js:89
 msgid "Last updated"
 msgstr "Posledni raz zaktualizowany"
 
-#: src/amo/components/AddonMoreInfo/index.js:264
+#: src/amo/components/AddonMoreInfo/index.js:252
 msgid "License"
 msgstr "Licenca"
 
-#: src/amo/components/AddonMoreInfo/index.js:272
+#: src/amo/components/AddonMoreInfo/index.js:260
 msgid "Privacy Policy"
 msgstr "Prawidła priwatnosće"
 
-#: src/amo/components/AddonMoreInfo/index.js:280
+#: src/amo/components/AddonMoreInfo/index.js:268
 msgid "End-User License Agreement"
 msgstr "Licencne dojednanje za kónčnych wužiwarjow"
 
-#: src/amo/components/AddonMoreInfo/index.js:288
+#: src/amo/components/AddonMoreInfo/index.js:276
 msgid "Version History"
 msgstr "Wersijowa historija"
 
-#: src/amo/components/AddonMoreInfo/index.js:298
+#: src/amo/components/AddonMoreInfo/index.js:286
 msgid "Usage Statistics"
 msgstr "Wužiwanska statistika"
 
-#: src/amo/components/AddonMoreInfo/index.js:314
+#: src/amo/components/AddonMoreInfo/index.js:302
 msgid "More information"
 msgstr "Dalše informacije"
 
-#: src/amo/components/AddonMoreInfo/index.js:73 src/amo/pages/UserProfile/index.js:357 src/amo/pages/UserProfile/index.js:359 src/amo/pages/UserProfileEdit/index.js:675
+#: src/amo/components/AddonMoreInfo/index.js:66 src/amo/pages/UserProfile/index.js:357 src/amo/pages/UserProfile/index.js:359 src/amo/pages/UserProfileEdit/index.js:675
 msgid "Homepage"
 msgstr "Startowa strona"
 
-#: src/amo/components/AddonMoreInfo/index.js:84
+#: src/amo/components/AddonMoreInfo/index.js:77
 msgid "Support site"
 msgstr "Sydło pomocy"
 
-#: src/amo/components/AddonMoreInfo/index.js:98
+#: src/amo/components/AddonMoreInfo/index.js:91
 msgid "Support Email"
 msgstr "E-mejlowa adresa pomocy"
 
@@ -293,104 +293,104 @@ msgstr "Druzy wužiwarjo z tutym rozšěrjenjom su tež instalowali"
 msgid "Other popular extensions"
 msgstr "Dalše woblubowane rozšěrjenja"
 
-#: src/amo/components/AddonReviewCard/index.js:202
+#: src/amo/components/AddonReviewCard/index.js:199
 msgid "Edit reply"
 msgstr "Wotmołwu wobdźěłać"
 
-#: src/amo/components/AddonReviewCard/index.js:205
+#: src/amo/components/AddonReviewCard/index.js:202
 msgid "Edit review"
 msgstr "Pohódnoćenje wobdźěłać"
 
-#: src/amo/components/AddonReviewCard/index.js:212 src/amo/components/AddonReviewCard/index.js:244
+#: src/amo/components/AddonReviewCard/index.js:209 src/amo/components/AddonReviewCard/index.js:241
 msgid "Delete reply"
 msgstr "Wotmołwu zhašeć"
 
-#: src/amo/components/AddonReviewCard/index.js:216 src/amo/components/AddonReviewCard/index.js:248
+#: src/amo/components/AddonReviewCard/index.js:213 src/amo/components/AddonReviewCard/index.js:245
 msgid "Delete rating"
 msgstr "Pohódnoćenje zhašeć"
 
-#: src/amo/components/AddonReviewCard/index.js:219 src/amo/components/AddonReviewCard/index.js:251
+#: src/amo/components/AddonReviewCard/index.js:216 src/amo/components/AddonReviewCard/index.js:248
 msgid "Delete review"
 msgstr "Pohódnoćenje zhašeć"
 
-#: src/amo/components/AddonReviewCard/index.js:226
+#: src/amo/components/AddonReviewCard/index.js:223
 msgid "Do you really want to delete this reply?"
 msgstr "Chceće woprawdźe tutu wotmołwu zhašeć?"
 
-#: src/amo/components/AddonReviewCard/index.js:230
+#: src/amo/components/AddonReviewCard/index.js:227
 msgid "Do you really want to delete this rating?"
 msgstr "Chceće woprawdźe tute pohódnoćenje zhašeć?"
 
-#: src/amo/components/AddonReviewCard/index.js:233
+#: src/amo/components/AddonReviewCard/index.js:230
 msgid "Do you really want to delete this review?"
 msgstr "Chceće woprawdźe tute pohódnoćenje zhašeć?"
 
-#: src/amo/components/AddonReviewCard/index.js:240 src/ui/components/DismissibleTextForm/index.js:224
+#: src/amo/components/AddonReviewCard/index.js:237 src/ui/components/DismissibleTextForm/index.js:224
 msgid "Delete"
 msgstr "Zhašeć"
 
-#: src/amo/components/AddonReviewCard/index.js:258 src/amo/components/AddonReviewManager/index.js:151 src/amo/components/CollectionManager/index.js:316 src/amo/pages/UserProfileEdit/index.js:898
+#: src/amo/components/AddonReviewCard/index.js:255 src/amo/components/AddonReviewManager/index.js:151 src/amo/components/CollectionManager/index.js:316 src/amo/pages/UserProfileEdit/index.js:898
 #: src/ui/components/ConfirmationDialog/index.js:60 src/ui/components/DismissibleTextForm/index.js:209
 msgid "Cancel"
 msgstr "Přetorhnyć"
 
-#: src/amo/components/AddonReviewCard/index.js:262
+#: src/amo/components/AddonReviewCard/index.js:259
 msgid "Keep reply"
 msgstr "Wotmołwu wobchować"
 
-#: src/amo/components/AddonReviewCard/index.js:266
+#: src/amo/components/AddonReviewCard/index.js:263
 msgid "Keep rating"
 msgstr "Pohódnoćenje wobchować"
 
-#: src/amo/components/AddonReviewCard/index.js:269
+#: src/amo/components/AddonReviewCard/index.js:266
 msgid "Keep review"
 msgstr "Pohódnoćenje wobchować"
 
-#: src/amo/components/AddonReviewCard/index.js:305
+#: src/amo/components/AddonReviewCard/index.js:302
 msgid "Write a reply to this review."
 msgstr "Pisajće wotmołwu na tute pohódnoćenje."
 
-#: src/amo/components/AddonReviewCard/index.js:308 src/amo/components/AddonReviewManager/index.js:119
+#: src/amo/components/AddonReviewCard/index.js:305 src/amo/components/AddonReviewManager/index.js:119
 msgid "Update reply"
 msgstr "Wotmołwu aktualizować"
 
-#: src/amo/components/AddonReviewCard/index.js:309
+#: src/amo/components/AddonReviewCard/index.js:306
 msgid "Publish reply"
 msgstr "Wotmołwu wozjewić"
 
-#: src/amo/components/AddonReviewCard/index.js:313 src/amo/components/AddonReviewManager/index.js:122
+#: src/amo/components/AddonReviewCard/index.js:310 src/amo/components/AddonReviewManager/index.js:122
 msgid "Updating reply"
 msgstr "Wotmołwa so aktualizuje"
 
-#: src/amo/components/AddonReviewCard/index.js:314
+#: src/amo/components/AddonReviewCard/index.js:311
 msgid "Publishing reply"
 msgstr "Wotmołwa so wozjewja"
 
-#: src/amo/components/AddonReviewCard/index.js:361
+#: src/amo/components/AddonReviewCard/index.js:357
 msgid "posted %(linkStart)s%(timestamp)s%(linkEnd)s"
 msgstr "je so %(linkStart)s%(timestamp)s%(linkEnd)s napisał"
 
-#: src/amo/components/AddonReviewCard/index.js:364
+#: src/amo/components/AddonReviewCard/index.js:360
 msgid "by %(linkUserProfileStart)s%(authorName)s%(linkUserProfileEnd)s, %(linkStart)s%(timestamp)s%(linkEnd)s"
 msgstr "wot %(linkUserProfileStart)s%(authorName)s%(linkUserProfileEnd)s, %(linkStart)s%(timestamp)s%(linkEnd)s"
 
-#: src/amo/components/AddonReviewCard/index.js:367
+#: src/amo/components/AddonReviewCard/index.js:363
 msgid "by %(authorName)s, %(linkStart)s%(timestamp)s%(linkEnd)s"
 msgstr "wot %(authorName)s, %(linkStart)s%(timestamp)s%(linkEnd)s"
 
-#: src/amo/components/AddonReviewCard/index.js:483
+#: src/amo/components/AddonReviewCard/index.js:478
 msgid "Deleting…"
 msgstr "Zhaša so…"
 
-#: src/amo/components/AddonReviewCard/index.js:514
+#: src/amo/components/AddonReviewCard/index.js:509
 msgid "Reply to this review"
 msgstr "Na tute pohódnoćenje wotmołwić"
 
-#: src/amo/components/AddonReviewCard/index.js:544
+#: src/amo/components/AddonReviewCard/index.js:539
 msgid "This rating or review has been deleted. You are only seeing it because of elevated permissions."
 msgstr "Tute pohódnoćenje je so zhašało. Widźiće jón jenož, dokelž maće rozšěrjene prawa."
 
-#: src/amo/components/AddonReviewCard/index.js:590
+#: src/amo/components/AddonReviewCard/index.js:585
 msgid "Write a review"
 msgstr "Pisajće pohódnoćenje"
 
@@ -510,11 +510,11 @@ msgstr "Přidatki wot %(author)s"
 msgid "Add-ons by these developers"
 msgstr "Přidatki wot tutych wuwiwarjow"
 
-#: src/amo/components/AddonSummaryCard/index.js:62
+#: src/amo/components/AddonSummaryCard/index.js:52
 msgid "Add-on icon"
 msgstr "Přidatkowy symbol"
 
-#: src/amo/components/AddonSummaryCard/index.js:88
+#: src/amo/components/AddonSummaryCard/index.js:78
 msgid "%(rating)s Star out of 5"
 msgid_plural "%(rating)s Stars out of 5"
 msgstr[0] "%(rating)s z 5 hwěžkow"
@@ -823,12 +823,12 @@ msgid "Flagged as a bug report or support request"
 msgstr "Jako zmylkowa rozprawa abo próstwa wo pomoc woznamjenjeny"
 
 #: src/amo/components/FlagReviewMenu/index.js:120
-msgid "Flagged"
-msgstr "Markěrowany"
-
-#: src/amo/components/FlagReviewMenu/index.js:120
 msgid "Flag"
 msgstr "Woznamjenić"
+
+#: src/amo/components/FlagReviewMenu/index.js:120
+msgid "Flagged"
+msgstr "Markěrowany"
 
 #: src/amo/components/FlagReviewMenu/index.js:123
 msgid "Flag this developer response"
@@ -882,23 +882,23 @@ msgstr "Wobhladowaki"
 msgid "Products"
 msgstr "Produkty"
 
-#: src/amo/components/Footer/index.js:256
+#: src/amo/components/Footer/index.js:245
 msgid "Privacy"
 msgstr "Priwatnosć"
 
-#: src/amo/components/Footer/index.js:264
+#: src/amo/components/Footer/index.js:253
 msgid "Cookies"
 msgstr "Placki"
+
+#: src/amo/components/Footer/index.js:261
+msgid "Legal"
+msgstr "Prawniske"
 
 #: src/amo/components/Footer/index.js:27
 msgid "Go to Mozilla's homepage"
 msgstr "K startowej stronje Mozilla"
 
-#: src/amo/components/Footer/index.js:272
-msgid "Legal"
-msgstr "Prawniske"
-
-#: src/amo/components/Footer/index.js:282
+#: src/amo/components/Footer/index.js:271
 msgid ""
 "Except where otherwise %(startNotedLink)snoted%(endNotedLink)s, content on this site is licensed under the %(startLicenseLink)sCreative Commons Attribution Share-Alike License v3.0%(endLicenseLink)s"
 " or any later version."
@@ -1002,22 +1002,26 @@ msgstr "Mój profil wobdźěłać"
 msgid "Tools"
 msgstr "Nastroje"
 
-#: src/amo/components/HeroRecommendation/index.js:108
+#: src/amo/components/HeroRecommendation/index.js:112
 msgid "Get the extension"
 msgstr "Wobstarajće sej rozšěrjenje"
 
 # If uppercase does not work in your locale, change it to lowercase.
-#: src/amo/components/HeroRecommendation/index.js:184
+#: src/amo/components/HeroRecommendation/index.js:188
 msgid "RECOMMENDED"
 msgstr "DOPORUČENY"
 
-#: src/amo/components/InstallWarning/index.js:95
+#: src/amo/components/InstallButtonWrapper/index.js:131
+msgid "Download file"
+msgstr "Dataju sćahnyć"
+
+#: src/amo/components/InstallWarning/index.js:103
+msgid "This add-on is not actively monitored for security by Mozilla. Make sure you trust it before installing."
+msgstr "Tutón přidatk so za wěstotu wot Mozilla aktiwnje njedohladuje. Kontrolujće, hač móžeće rozšěrjenju dowěrić, prjedy hač jo instalujeće."
+
+#: src/amo/components/InstallWarning/index.js:98
 msgid "Learn more"
 msgstr "Dalše informacije"
-
-#: src/amo/components/InstallWarning/index.js:99
-msgid "This is not monitored for security through Mozilla's Recommended Extensions program. Make sure you trust it before installing."
-msgstr "To so za wěstotu přez program za doporučene rozšěrjenja Mozilla  njedohladuje. Zawěsćće, zo móžeće jemu dowěrić, prjedy hač jo instalujeće."
 
 #: src/amo/components/LanguagePicker/index.js:52
 msgid "Change language"
@@ -1131,7 +1135,7 @@ msgstr "Přistup na aktiwitu wobhladowaka za nawigaciju měć"
 msgid "Sponsored extensions"
 msgstr "Sponsorowane rozšěrjenja"
 
-#: src/amo/components/PromotedAddonsCard/index.js:83 src/ui/components/PromotedBadge/index.js:48
+#: src/amo/components/PromotedAddonsCard/index.js:83
 msgid "Firefox only recommends extensions that meet our standards for security and performance."
 msgstr "Firefox jenož rozšěrjenja doporučuje, kotrež našim standardam za wěstotu a wukon wotpowěduja."
 
@@ -1179,23 +1183,23 @@ msgstr "Hwězdne pohódnoćenje so składuje"
 msgid "Star rating saved"
 msgstr "Hwězdne pohódnoćenje je so składowało"
 
-#: src/amo/components/RatingsByStar/index.js:108
+#: src/amo/components/RatingsByStar/index.js:95
 msgid "Read all five-star reviews"
 msgstr "Wšě pohódnoćenja z pjeć hwěžkami čitać"
 
-#: src/amo/components/RatingsByStar/index.js:109
+#: src/amo/components/RatingsByStar/index.js:96
 msgid "Read all four-star reviews"
 msgstr "Wšě pohódnoćenja ze štyrjomi hwěžkami čitać"
 
-#: src/amo/components/RatingsByStar/index.js:110
+#: src/amo/components/RatingsByStar/index.js:97
 msgid "Read all three-star reviews"
 msgstr "Wšě pohódnoćenja z třomi hwěžkami čitać"
 
-#: src/amo/components/RatingsByStar/index.js:111
+#: src/amo/components/RatingsByStar/index.js:98
 msgid "Read all two-star reviews"
 msgstr "Wšě pohódnoćenja z dwěmaj hwěžce čitać"
 
-#: src/amo/components/RatingsByStar/index.js:112
+#: src/amo/components/RatingsByStar/index.js:99
 msgid "Read all one-star reviews"
 msgstr "Wšě pohódnoćenja z jednej hwěžku čitać"
 
@@ -1445,7 +1449,7 @@ msgstr[1] "%(count)s drasće stej so za \"%(query)s\" w %(categoryName)s namaka�
 msgstr[2] "%(count)s drasty su so za \"%(query)s\" w %(categoryName)s namakali"
 msgstr[3] "%(count)s drastow je so za \"%(query)s\" w %(categoryName)s namakało"
 
-#: src/amo/components/SearchFilters/index.js:126 src/amo/components/SearchFilters/index.js:142 src/amo/components/SearchFilters/index.js:168
+#: src/amo/components/SearchFilters/index.js:126 src/amo/components/SearchFilters/index.js:142
 msgid "All"
 msgstr "Wšě"
 
@@ -1489,6 +1493,10 @@ msgstr "Najlěpje pohódnoćeny"
 msgid "Trending"
 msgstr "Woblubowany"
 
+#: src/amo/components/SearchFilters/index.js:168
+msgid "Any"
+msgstr "Wšě"
+
 #: src/amo/components/SearchFilters/index.js:169 src/ui/components/IconPromotedBadge/index.js:47 src/ui/components/PromotedBadge/index.js:47
 msgid "Recommended"
 msgstr "Doporučene"
@@ -1502,8 +1510,8 @@ msgid "Verified"
 msgstr "Wobkrućeny"
 
 #: src/amo/components/SearchFilters/index.js:179
-msgid "Reviewed"
-msgstr "Přepruwowany"
+msgid "All Reviewed"
+msgstr "Wšě přepruwowane"
 
 #: src/amo/components/SearchFilters/index.js:199
 msgid "Filter results"
@@ -1522,8 +1530,8 @@ msgid "Operating System"
 msgstr "Dźěłowy system"
 
 #: src/amo/components/SearchFilters/index.js:264
-msgid "Promoted Add-Ons"
-msgstr "Sponsorowane přidatki"
+msgid "Badging"
+msgstr "Woznamjenjenje"
 
 #: src/amo/components/SearchForm/index.js:55
 msgid "Firefox Add-ons for Android"
@@ -1537,15 +1545,15 @@ msgstr "Přidatki Firefox"
 msgid "Go to the add-on page"
 msgstr "K stronje přidatka"
 
-#: src/amo/components/SearchResult/index.js:180
+#: src/amo/components/SearchResult/index.js:181
 msgid "No theme preview available"
 msgstr "Přehlad drasty k dispoziciji njeje"
 
-#: src/amo/components/SearchResult/index.js:215
+#: src/amo/components/SearchResult/index.js:216
 msgid "Add-on note"
 msgstr "Přidatkowa notica"
 
-#: src/amo/components/SearchResult/index.js:233
+#: src/amo/components/SearchResult/index.js:234
 msgid "%(total)s user"
 msgid_plural "%(total)s users"
 msgstr[0] "%(total)s wužiwar"
@@ -1661,15 +1669,15 @@ msgstr "Zo byšće wjace wo přidatkach zhonił, kotrež su kompatibelne z Firef
 msgid "To find add-ons compatible with Firefox on Android, <a href=\"%(newLocation)s\">visit our mobile site</a>."
 msgstr "Zo byšće přidatki namakał, kotrež su kompatibelne z Firefox na Android, <a href=\"%(newLocation)s\">wopytajće naše sydło za mobilne graty</a>."
 
-#: src/amo/pages/Addon/index.js:171 src/ui/components/ThemeImage/index.js:31
+#: src/amo/pages/Addon/index.js:168 src/ui/components/ThemeImage/index.js:31
 msgid "Preview of %(title)s"
 msgstr "Přehlad %(title)s"
 
-#: src/amo/pages/Addon/index.js:213
+#: src/amo/pages/Addon/index.js:203
 msgid "This add-on cannot be rated because no versions have been published."
 msgstr "Tutón přidatk njeda so pohódnoćić, dokelž žane wersije njejsu so wozjewili."
 
-#: src/amo/pages/Addon/index.js:224
+#: src/amo/pages/Addon/index.js:214
 msgid "Read %(count)s review"
 msgid_plural "Read all %(count)s reviews"
 msgstr[0] "%(count)s pohódnoćenje čitać"
@@ -1677,67 +1685,67 @@ msgstr[1] "%(count)s pohódnoćeni čitać"
 msgstr[2] "%(count)s pohódnoćenja čitać"
 msgstr[3] "%(count)s pohódnoćenjow čitać"
 
-#: src/amo/pages/Addon/index.js:246
+#: src/amo/pages/Addon/index.js:235
 msgid "No reviews yet"
 msgstr "Hišće žane pohódnoćenja"
 
-#: src/amo/pages/Addon/index.js:256
+#: src/amo/pages/Addon/index.js:245
 msgid "Rate your experience"
 msgstr "Pohódnoćće swoje dožiwjenje"
 
-#: src/amo/pages/Addon/index.js:275
+#: src/amo/pages/Addon/index.js:264
 msgid "About this dictionary"
 msgstr "Wo tutym słowniku"
 
-#: src/amo/pages/Addon/index.js:278
+#: src/amo/pages/Addon/index.js:267
 msgid "About this extension"
 msgstr "Wo tutym rozšěrjenju"
 
-#: src/amo/pages/Addon/index.js:281
+#: src/amo/pages/Addon/index.js:270
 msgid "About this language pack"
 msgstr "Wo tutym rěčnym pakćiku"
 
-#: src/amo/pages/Addon/index.js:284
+#: src/amo/pages/Addon/index.js:273
 msgid "About this theme"
 msgstr "Wo tutej drasće"
 
-#: src/amo/pages/Addon/index.js:287
+#: src/amo/pages/Addon/index.js:276
 msgid "About this add-on"
 msgstr "Wo tutym přidatku"
 
-#: src/amo/pages/Addon/index.js:329
+#: src/amo/pages/Addon/index.js:318
 msgid "Developer comments"
 msgstr "Wuwiwarske komentary"
 
-#: src/amo/pages/Addon/index.js:352
+#: src/amo/pages/Addon/index.js:341
 msgid "Release notes for %(addonVersion)s"
 msgstr "Wersijowe informacije za %(addonVersion)s"
 
-#: src/amo/pages/Addon/index.js:484
+#: src/amo/pages/Addon/index.js:473
 msgid "This is not a public listing. You are only seeing it because of elevated permissions."
 msgstr "To zjawny lisćinowy zapisk njeje. Widźiće jón jenož, dokelž maće rozšěrjene prawa."
 
-#: src/amo/pages/Addon/index.js:511
+#: src/amo/pages/Addon/index.js:500
 msgid "Extension Metadata"
 msgstr "Metadaty rozšěrjenja"
 
-#: src/amo/pages/Addon/index.js:519
+#: src/amo/pages/Addon/index.js:508
 msgid "This listing is not intended for this platform. <a href=\"%(newLocation)s\">Browse add-ons for Firefox on Android</a>."
 msgstr "Tutón zapisk njeje mysleny za tutu platformu. <a href=\"%(newLocation)s\">Přepytajće přidatki za Firefox na Android.</a>."
 
-#: src/amo/pages/Addon/index.js:523
+#: src/amo/pages/Addon/index.js:512
 msgid "This listing is not intended for this platform. <a href=\"%(newLocation)s\">Browse add-ons for Firefox on desktop</a>."
 msgstr "Tutón zapisk njeje mysleny za tutu platformu. <a href=\"%(newLocation)s\">Přepytajće přidatki za Firefox za desktop.</a>."
 
-#: src/amo/pages/Addon/index.js:529
-msgid "You can install this add-on in the Add-ons Manager.  Learn more about <a href=\"%(newLocation)s\">add-ons for Android</a>."
+#: src/amo/pages/Addon/index.js:518
+msgid "You can install this add-on in the Add-ons Manager. Learn more about <a href=\"%(newLocation)s\">add-ons for Android</a>."
 msgstr "Njemóžeće tutón přidatk w zrjadowaku přidatkow instalować. Zhońće wjace wo <a href=\"%(newLocation)s\">přidatkach za Android</a>."
 
-#: src/amo/pages/Addon/index.js:533
+#: src/amo/pages/Addon/index.js:522
 msgid "Not available on Firefox for Android. You can use this add-on with Firefox for Desktop. Learn more about <a href=\"%(newLocation)s\">add-ons for Android</a>."
 msgstr "Za Firefox za Android k dispoziciji njeje. Móžeće tutón přidatk z Firefox za Desktop wužiwać. Zhońće wjace wo <a href=\"%(newLocation)s\">přidatkach za Android</a>."
 
-#: src/amo/pages/Addon/index.js:555
+#: src/amo/pages/Addon/index.js:544
 msgid "Screenshots"
 msgstr "Fota wobrazowki"
 
@@ -1753,39 +1761,39 @@ msgstr "Licencne dojednanje za kónčnych wužiwarjow za %(addonName)s"
 msgid "Privacy policy for %(addonName)s"
 msgstr "Prawidła priwatnosće za %(addonName)s"
 
-#: src/amo/pages/AddonReviewList/index.js:204
+#: src/amo/pages/AddonReviewList/index.js:198
 msgid "Reviews and ratings for %(addonName)s. Find out what other users think about %(addonName)s and add it to your Firefox Browser."
 msgstr "Přepruwowanja a pohódnoćenja za %(addonName)s. Wuslědźće, što wužiwarjo wo %(addonName)s mysla a přidajće jón swojemu wobhladowakej Firefox."
 
-#: src/amo/pages/AddonReviewList/index.js:238
+#: src/amo/pages/AddonReviewList/index.js:231
 msgid "Show all reviews"
 msgstr "Wšě pohódnoćenja pokazać"
 
-#: src/amo/pages/AddonReviewList/index.js:240
+#: src/amo/pages/AddonReviewList/index.js:233
 msgid "Show only five-star reviews"
 msgstr "Jenož pohódnoćenja z pjeć hwěžkami pokazać"
 
-#: src/amo/pages/AddonReviewList/index.js:241
+#: src/amo/pages/AddonReviewList/index.js:234
 msgid "Show only four-star reviews"
 msgstr "Jenož pohódnoćenja ze štyrjomi hwěžkami pokazać"
 
-#: src/amo/pages/AddonReviewList/index.js:243
+#: src/amo/pages/AddonReviewList/index.js:236
 msgid "Show only three-star reviews"
 msgstr "Jenož pohódnoćenja z třomi hwěžkami pokazać"
 
-#: src/amo/pages/AddonReviewList/index.js:245
+#: src/amo/pages/AddonReviewList/index.js:238
 msgid "Show only two-star reviews"
 msgstr "Jenož pohódnoćenja z dwěmaj hwěžce pokazać"
 
-#: src/amo/pages/AddonReviewList/index.js:246
+#: src/amo/pages/AddonReviewList/index.js:239
 msgid "Show only one-star reviews"
 msgstr "Jenož pohódnoćenja z jednej hwěžku pokazać"
 
-#: src/amo/pages/AddonReviewList/index.js:287
+#: src/amo/pages/AddonReviewList/index.js:279
 msgid "Reviews for %(addonName)s"
 msgstr "Pohódnoćenja za %(addonName)s"
 
-#: src/amo/pages/AddonReviewList/index.js:297
+#: src/amo/pages/AddonReviewList/index.js:289
 msgid "%(total)s review"
 msgid_plural "%(total)s reviews"
 msgstr[0] "%(total)s pohódnoćenje"
@@ -1793,7 +1801,7 @@ msgstr[1] "%(total)s pohódnoćeni"
 msgstr[2] "%(total)s pohódnoćenja"
 msgstr[3] "%(total)s pohódnoćenjow"
 
-#: src/amo/pages/AddonReviewList/index.js:397
+#: src/amo/pages/AddonReviewList/index.js:388
 msgid "There are no reviews"
 msgstr "Pohódnoćenja njejsu"
 
@@ -2804,12 +2812,16 @@ msgid "Dismiss this notice"
 msgstr "Pokiw zaćisnyć"
 
 #: src/ui/components/PromotedBadge/index.js:40
-msgid "This extension was created by the makers of Firefox."
-msgstr "Tute rozšěrjenje je so wot zhotowjerja Firefox wutworiło."
+msgid "This is an official add-on built by the creators of Mozilla Firefox."
+msgstr "To je oficielny přidatk, kotryž je so wot wuwiwarjow Mozilla Firefox wuwił."
+
+#: src/ui/components/PromotedBadge/index.js:48
+msgid "Firefox only recommends add-ons that meet our standards for security and performance."
+msgstr "Firefox jenož přidatki doporučuje, kotrež našim standardam za wěstotu a wukon wotpowěduja."
 
 #: src/ui/components/PromotedBadge/index.js:58
-msgid "This extension has been code-reviewed for safety."
-msgstr "Kod tutoho rozšěrjenja je so z přičinow wěstoty přepruwował."
+msgid "This add-on has been reviewed to meet our standards for security and performance."
+msgstr "Tutón přidatk je so přepruwował, zo by našim standardam za wěstotu a wukon wotpowědował."
 
 #: src/ui/components/Rating/index.js:100
 msgid "Update your rating to %(starRating)s out of 5"
@@ -2846,6 +2858,15 @@ msgstr[3] "%(total)s přidatkow"
 #: src/ui/components/UserReview/index.js:103
 msgid "Developer response"
 msgstr "Wotmołwa wuwiwarja"
+
+#~ msgid "Promoted Add-Ons"
+#~ msgstr "Sponsorowane přidatki"
+
+#~ msgid "This extension was created by the makers of Firefox."
+#~ msgstr "Tute rozšěrjenje je so wot zhotowjerja Firefox wutworiło."
+
+#~ msgid "This extension has been code-reviewed for safety."
+#~ msgstr "Kod tutoho rozšěrjenja je so z přičinow wěstoty přepruwował."
 
 #~ msgid "Recommended add-ons only"
 #~ msgstr "Jenož doporučene přidatki"
@@ -2996,13 +3017,6 @@ msgstr "Wotmołwa wuwiwarja"
 
 #~ msgid "Verified Sponsor"
 #~ msgstr "Wobkrućeny sponsor"
-
-#~ msgid "Download"
-#~ msgid_plural "Downloads"
-#~ msgstr[0] "Sćehnjenje"
-#~ msgstr[1] "Sćehnjeni"
-#~ msgstr[2] "Sćehnjenja"
-#~ msgstr[3] "Sćehnjenja"
 
 #~ msgid "No Downloads"
 #~ msgstr "Žane sćehnjenja"
